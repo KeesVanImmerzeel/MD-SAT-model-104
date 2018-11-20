@@ -1,0 +1,22 @@
+************* EParray[ 1 ]: TestFile *********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+1 5           UITVOERTIJDSTIPPEN
+1 2 3 4 5
+4             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             Landgebruik; 1=gras; 2=bouwland; 3=mais; 4=natuur; 5=stedelijk
+0 3
+0             table 1: table-type 0 (no interpolation)
+1             Bodemsoort; zand=1; klei=2; veen=3 
+0 1
+0             table 2: table-type 0 (no interpolation)
+1             Conc SO4 ondiep grondwater (mg SO4/l)
+0 50
+0             table 3: table-type 0 (no interpolation)
+5             Conc NO3 ondiep grondwater (mg NO3/l)
+0 453.3
+1 200
+2 300
+3 400
+4 500
